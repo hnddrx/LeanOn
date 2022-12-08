@@ -1,0 +1,33 @@
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    padding:8px ;
+    background-color: white;
+    max-width: 100%;
+    width: 100%;
+    position: fixed;
+
+}
+
+.logo{
+    margin-left: 20px;
+}
+.logo img{
+    width: 150px;
+    height: 40px;
+}
+
+.nav a{
+    font-size: 15px;
+    text-decoration: none;
+}
+.menu-logged{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+    width: 30%;
+    max-width: 100%;
+}
+
